@@ -1,0 +1,54 @@
+[
+  {
+    "name": "",
+    "id": null
+  },
+  {
+    "name": "Research and Development",
+    "id": "Research and Development"
+  },
+  {
+    "name": "Training",
+    "id": "Training"
+  },
+  {
+    "name": "Business Development",
+    "id": "Business Development"
+  },
+  {
+    "name": "Product Management",
+    "id": "Product Management"
+  },
+  {
+    "name": "Legal",
+    "id": "Legal"
+  },
+  {
+    "name": "Services",
+    "id": "Services"
+  },
+  {
+    "name": "Human Resources",
+    "id": "Human Resources"
+  },
+  {
+    "name": "Marketing",
+    "id": "Marketing"
+  },
+  {
+    "name": "Sales",
+    "id": "Sales"
+  },
+  {
+    "name": "Support",
+    "id": "Support"
+  },
+  {
+    "name": "Accounting",
+    "id": "Accounting"
+  },
+  {
+    "name": "Engineering",
+    "id": "Engineering"
+  }
+]
